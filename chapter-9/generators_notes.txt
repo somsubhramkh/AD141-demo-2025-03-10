@@ -1,0 +1,5 @@
+Features of Python generators
+--------------------
+1. Lazy Evaluation
+2. yield keyword
+3. Statefulness --> next()
